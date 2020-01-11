@@ -1,4 +1,4 @@
-package com.stalern.spiderpageviews.util;
+package com.savannah.spider.pageviews.util;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

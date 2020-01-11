@@ -1,8 +1,8 @@
-package com.stalern.spiderpageviews.run;
+package com.savannah.spider.pageviews.run;
 
-import com.stalern.spiderpageviews.processor.ParseHtml;
-import com.stalern.spiderpageviews.util.HtmlUtils;
-import com.stalern.spiderpageviews.util.TimeUtils;
+import com.savannah.spider.pageviews.processor.ParseHtml;
+import com.savannah.spider.pageviews.util.HtmlUtils;
+import com.savannah.spider.pageviews.util.TimeUtils;
 
 /**
  * 爬虫启动类
